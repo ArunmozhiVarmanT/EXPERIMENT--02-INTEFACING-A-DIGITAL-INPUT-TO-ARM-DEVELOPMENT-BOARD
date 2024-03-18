@@ -1,4 +1,9 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
+
+## Name : Arunmozhi Varman T
+## REG.NO : 212223230022
+## Dept : AI & DS
+
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
@@ -51,13 +56,18 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+![program](https://github.com/vasanthkumarch/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144870523/a5314671-83cb-425a-b1cc-245ee62ff0bc)
 
 
 
 ## Output  :
- 
- 
- 
+
+ # Before
+ ![before](https://github.com/vasanthkumarch/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144870523/d62681cf-9c7a-4e2b-b80a-d3c0fd4543b7)
+
+ # After
+ ![after](https://github.com/vasanthkumarch/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144870523/3d667e04-0b4c-4671-9297-70e9d49af47c)
+
  
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
